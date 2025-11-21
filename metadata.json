@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SHROVATE // SYSTEM",
+  "description": "A high-fidelity sci-fi system interface featuring a cinematic boot sequence and an integrated AI terminal powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
